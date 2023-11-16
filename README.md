@@ -1,6 +1,6 @@
-#Proyecto-Final-de-Algoritmo
+# Proyecto-Final-de-Algoritmo
 
-##Integrantes
+## Integrantes
 
 1.Gorosito Ignacio
 
